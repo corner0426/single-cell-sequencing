@@ -44,7 +44,7 @@
 * some companies provide software tools, such as 10 × genomics
 * gold-standard tools have yet to be developed.
 
-### pre-processing the data
+### processing the data
 
 * fastqc: low-quality basese (3' end), adapter sequence
 * trimmed UMIs prior to alingment
